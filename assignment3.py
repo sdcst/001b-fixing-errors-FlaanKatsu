@@ -1,6 +1,10 @@
-#! python3
+#!/usr/bin/env python3
 
+'''
 This is supposed to be a comment but it is missing something at the front of the line
+'''
+
+#(you can use a hashtag to comment a line, or sandwitch a brick of text in rows of 3 small quotation marks. )
 
 print("Comment is now fixed")
 print("So the program works")
